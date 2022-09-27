@@ -154,7 +154,7 @@ input{
     bottom: 0px;
     background-color: #f4f4f4;
     width: 99%;
-    height: 95px;
+    height: 145px;
 }
 
 .france{
@@ -163,6 +163,14 @@ input{
     margin-left: 25px;
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+.neutre{
+    color: rgb(125, 125, 125);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 15px;    
 }
 
 .bg{
